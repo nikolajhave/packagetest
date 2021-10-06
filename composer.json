@@ -17,4 +17,5 @@
     "psr-4": {
       "PackageTest\\": "src/PackageTest"
     }
+  }
 }
