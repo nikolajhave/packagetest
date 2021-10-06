@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\HelloWorld;
+namespace PackageTest\HelloWorld;
 
 class SayHello
 {
