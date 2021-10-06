@@ -1,0 +1,20 @@
+{
+  "name": "nikolajhave/packagetest",
+  "description": "testing",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nikolaj Have",
+      "email": "nikolaj.have@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "PackageTest\\": "src/PackageTest/"
+    }
+}
