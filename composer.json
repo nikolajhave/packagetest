@@ -15,7 +15,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "PackageTest\\": "src/PackageTest"
+      "HelloWorld\\": "src/"
     }
   }
 }
